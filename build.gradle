@@ -31,5 +31,5 @@ jar {
 }
 
 dependencies {
-    compile "com.ultimatesoftware.jsim:jsim-script:1.2.4"
+    compile "com.ultimatesoftware.jsim:jsim-script:1.2.5"
 }
